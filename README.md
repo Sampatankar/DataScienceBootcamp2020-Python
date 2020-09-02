@@ -27,6 +27,8 @@ The course utilises the following languages, toolkits and frameworks:
 -SciPy
 -SymPy
 
+We will use tools like Beautiful Soup to process data.
+
 The following Python concepts will be covered with worked examples:
 -Data Types and Variables
 -String Manipulation
